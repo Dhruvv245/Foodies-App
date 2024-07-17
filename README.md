@@ -1,1 +1,1 @@
-Bulit using Next.js
+Built using Next.js
